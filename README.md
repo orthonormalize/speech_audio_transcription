@@ -1,2 +1,2 @@
 # speech_audio_transcription
-Code that generates transcripts of audio recordings
+This code generates transcripts from an audio recording using Google's speech recognition API. Audio format can be FLAC or WAV.
